@@ -1,0 +1,101 @@
+body
+{
+    background-color: black;
+}
+table
+{
+    color: white;
+    width: 1000px;
+    height:600px;
+    empty-cells: hide;    
+    border-spacing: 3px 3px;
+    table-layout: fixed;
+    margin: 0px auto 0px auto;
+}
+sup
+{
+    font-size: 9px;
+    display: block;
+    position: relative;
+    left: 14px;
+    bottom: 5px;
+}
+span
+{
+    position: relative;
+    left:11px;
+    bottom: -4px;
+}
+td.Number
+{
+    font-size: 12px;
+    text-align: center;
+}
+td.One
+{
+    border: #99ddff;
+    background-color:#99ddff ;
+}
+td.Two
+{
+    border:#0066cc ;
+    background-color:#0066cc ;
+}
+td.Three
+{
+    border:#d98cd9 ;
+    background-color:#d98cd9 ;
+}
+td.Four
+{
+    border:#ff4d4d ;
+    background-color:#ff4d4d ;
+}
+td.Five
+{
+    border: #ff944d ;
+    background-color: #ff944d;
+}
+td.Six
+{
+    border:#ffc266 ;
+    background-color:#ffc266 ;
+}
+td.Seven
+{
+    border:#00ccff ;
+    background-color:#00ccff;
+}
+td.Eight
+{
+    border:#00ff00 ;
+    background-color:#00ff00 ;
+}
+td.Nine
+{
+    border:#669999 ;
+    background-color:#669999 ;
+}
+td.Ten
+{
+    border:#adad85 ;
+    background-color:#adad85 ;
+}
+td.Eleven
+{
+    border:#0077b3;
+    background-color:#0077b3;
+}
+td.Twelve
+{
+    border:#990099 ;
+    background-color:#990099 ;
+}
+.Set
+{
+    display: inline;
+    position: relative;
+    left:2px;
+    bottom:2px;
+    font-size: 12px;
+}
